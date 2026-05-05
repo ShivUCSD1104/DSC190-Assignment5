@@ -4,3 +4,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+ 
+var=5
+x=1+10
+print(var)
