@@ -4,3 +4,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+import os 
+print(var)
+x=1+10
+var=5
